@@ -1,0 +1,14 @@
+C:/Jogos/
+Teste:{
+	pasta1 : {
+		arquivo.txt:"Qualquer texto",
+		arquivo2.txt:"Bla",
+		pasta2:{
+			jquery.js:[http://code.jquery.com/jquery-1.8.3.min.js],
+			arquivo3.txt:[C:/Jogos/Teste/pasta1/arquivo2.txt],
+		}
+	},
+	pasta4 : {
+
+	},
+}

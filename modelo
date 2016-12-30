@@ -1,0 +1,18 @@
+C:\Permanente\Estudio\web\Node\Faster
+client:{
+	scripts:{
+		libs:{
+		}
+	},
+	styles:{
+		main.less: "",
+		padroes.less: "",
+	},
+	templates:{
+		estrutura.html: "",
+		
+	},
+}
+server:{
+	app.js: "",
+}
